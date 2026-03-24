@@ -19,11 +19,11 @@ The data model is built using a Star Schema with a central Sales table and dimen
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Data Model
 
-![Schema](schema.png)
+![Schema](Schema.png)
 
 ## Tools Used
 
